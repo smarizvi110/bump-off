@@ -1,7 +1,7 @@
 # Bump Off!
 
 <div align="center">
-    <img src="Icons/icon.svg">
+    <img src="Icons/icon.svg" alt="Bump Off! Icon">
 </div>
 
 ## Overview
@@ -33,13 +33,16 @@ Coming soon!
 ### Manual Installation from GitHub
 
 1. Clone or download this repository:
+2.
+
     ```zsh
     git clone https://github.com/<YOUR_USERNAME>/bump-off.git
     ```
-2. Open **chrome://extensions/** in your browser.
-3. Enable **Developer mode** in the top-right corner.
-4. Click **Load unpacked** and select the directory where you cloned the repo.
-5. The extension should now appear in your toolbar. You can configure it from the popup menu.
+    
+3. Open **chrome://extensions/** in your browser.
+4. Enable **Developer mode** in the top-right corner.
+5. Click **Load unpacked** and select the directory where you cloned the repo.
+6. The extension should now appear in your toolbar. You can configure it from the popup menu.
 
 ## How to Use
 
