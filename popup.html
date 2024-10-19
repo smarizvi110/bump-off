@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bump Off! Settings</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+            text-align: center;
+            background-color: #f4f7f6;
+            width: 300px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 28px;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 28px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .slider {
+            background-color: #4CAF50;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(22px);
+        }
+
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 14px;
+            background-color: white;
+            padding: 10px 15px;
+            margin: 8px 0;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .checkbox-label input {
+            margin-left: 10px;
+            width: 20px;
+            height: 20px;
+        }
+
+        .container {
+            max-width: 280px;
+            margin: 0 auto;
+            padding: 0;
+        }
+
+        #toggleContainer {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bump Off!</h1>
+
+        <div id="toggleContainer">
+            <label class="label" for="toggleExtension">
+                <label class="switch">
+                    <input type="checkbox" id="toggleExtension" checked>
+                    <span class="slider"></span>
+                </label>
+            </label>
+        </div>
+
+        <div class="checkbox-label">
+            <span>Show bump comments with replies</span>
+            <input type="checkbox" id="toggleReplies" checked>
+        </div>
+
+        <div class="checkbox-label">
+            <span>Remove replies when bump comment is removed</span>
+            <input type="checkbox" id="toggleRemoveReplies" disabled>
+        </div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

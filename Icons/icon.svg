@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#4CAF50" stroke="#333" stroke-width="5"/>
+
+  <!-- "Bump" Text -->
+  <text x="50%" y="50%" text-anchor="middle" fill="#ffffff" font-family="Verdana" font-size="42" font-weight="bold" dy="-10">
+    Bump
+  </text>
+
+  <!-- "Off!" Text -->
+  <text x="50%" y="50%" text-anchor="middle" fill="#ffffff" font-family="Verdana" font-size="36" font-weight="bold" dy="40">
+    Off!
+  </text>
+</svg>
