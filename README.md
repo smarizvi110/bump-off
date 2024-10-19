@@ -1,7 +1,7 @@
 # Bump Off!
 
 <div align="center">
-    <img src="Icons/icon-128.png">
+    <img src="Icons/icon.svg">
 </div>
 
 ## Overview
