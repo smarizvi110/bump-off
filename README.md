@@ -33,12 +33,11 @@ Coming soon!
 ### Manual Installation from GitHub
 
 1. Clone or download this repository:
-2.
-
+2. 
     ```zsh
     git clone https://github.com/<YOUR_USERNAME>/bump-off.git
     ```
-    
+
 3. Open **chrome://extensions/** in your browser.
 4. Enable **Developer mode** in the top-right corner.
 5. Click **Load unpacked** and select the directory where you cloned the repo.
