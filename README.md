@@ -35,7 +35,7 @@ Coming soon!
 1. Clone or download this repository:
 2. 
     ```zsh
-    git clone https://github.com/<YOUR_USERNAME>/bump-off.git
+    git clone https://github.com/smarizvi110/bump-off.git
     ```
 
 3. Open **chrome://extensions/** in your browser.
