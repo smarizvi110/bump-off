@@ -61,7 +61,7 @@ Contributions are welcome! Please refer to the [CONTRIBUTING](CONTRIBUTING.md) f
 
 ## License
 
-This project is licensed under the EUGPL-1.2 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the EUPL-1.2 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
