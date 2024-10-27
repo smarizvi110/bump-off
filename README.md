@@ -22,7 +22,7 @@ You can:
 
 ## Installation
 
-![Bump Off! Screenshot](Screenshots/Screenshot_Settings.png)
+![Bump Off! Screenshot](Screenshots/Screenshot_Demo.png)
 
 ### From Chrome Web Store
 
