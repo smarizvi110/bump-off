@@ -22,7 +22,7 @@ You can:
 
 ## Installation
 
-![Bump Off! Screenshot](Screenshots/Screenshot_Settings.png)
+![Bump Off! Screenshot](Screenshots/Screenshot_Demo.png)
 
 ### From Chrome Web Store
 
@@ -53,6 +53,8 @@ Coming soon!
 Contributions are welcome! Please refer to the [CONTRIBUTING](CONTRIBUTING.md) file for more details.
 
 ## Permissions
+
+Below are the permissions required by this extension. You can also view our detailed privacy policy by referring to the [PRIVACY](PRIVACY.md) file. 
 
 - **Storage**: Used to store the user's settings (e.g., enable/disable status, and visibility options).
 - **Host permissions**: The extension needs access to `facebook.com` to hide comments.
