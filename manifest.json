@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Bump Off!",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Hides comments containing the word 'bump'.",
   "permissions": ["storage"],
   "host_permissions": ["*://*.facebook.com/*"],
