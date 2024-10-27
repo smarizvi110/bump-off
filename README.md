@@ -54,6 +54,8 @@ Contributions are welcome! Please refer to the [CONTRIBUTING](CONTRIBUTING.md) f
 
 ## Permissions
 
+Below are the permissions required by this extension. You can also view our detailed privacy policy by referring to the [PRIVACY](PRIVACY.md) file. 
+
 - **Storage**: Used to store the user's settings (e.g., enable/disable status, and visibility options).
 - **Host permissions**: The extension needs access to `facebook.com` to hide comments.
 
