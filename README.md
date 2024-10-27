@@ -22,6 +22,8 @@ You can:
 
 ## Installation
 
+![Bump Off! Screenshot](Screenshots/Screenshot_Settings.png)
+
 ### From Chrome Web Store
 
 Coming soon!
