@@ -20,10 +20,6 @@ You can:
 - **Toggle visibility for 'bump' comments with replies**: You can choose to show or hide 'bump' comments that have replies.
 - **Remove replies to hidden 'bump' comments**: Optionally remove replies associated with hidden 'bump' comments.
 
-## UI
-
-![Bump Off! Popup Settings](Screenshots/Screenshot_Settings.png)
-
 ## Installation
 
 ### From Chrome Web Store

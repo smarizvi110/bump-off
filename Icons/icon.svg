@@ -1,14 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="204"
+   height="204"
+   viewBox="0 0 204 204"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\Personal Projects\bump_off\Icons\icon-128.png"
+   inkscape:export-xdpi="60.235294"
+   inkscape:export-ydpi="60.235294"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <filter
+       inkscape:label="Fill Background"
+       inkscape:menu="Fill and Transparency"
+       inkscape:menu-tooltip="Adds a colorizable opaque background"
+       style="color-interpolation-filters:sRGB;"
+       id="filter10309"
+       x="-0.050000000000000003"
+       y="-0.050000000000000003"
+       width="1.1000000000000001"
+       height="1.1000000000000001"
+       inkscape:auto-region="false">
+      <feFlood
+         result="result1"
+         flood-color="rgb(24,119,242)"
+         flood-opacity="1"
+         id="feFlood10297" />
+      <feImage
+         xlink:href=""
+         result="result2"
+         id="feImage10299" />
+      <feBlend
+         result="result4"
+         in2="result1"
+         mode="multiply"
+         id="feBlend10301" />
+      <feMerge
+         result="result3"
+         id="feMerge10307">
+        <feMergeNode
+           in="result1"
+           id="feMergeNode10303" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode10305" />
+      </feMerge>
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.99"
+     inkscape:cx="101.8797"
+     inkscape:cy="102.13033"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
   <!-- Background circle -->
-  <circle cx="100" cy="100" r="95" fill="#4CAF50" stroke="#333" stroke-width="5"/>
-
   <!-- "Bump" Text -->
-  <text x="50%" y="50%" text-anchor="middle" fill="#ffffff" font-family="Verdana" font-size="42" font-weight="bold" dy="-10">
-    Bump
-  </text>
-
+  <text
+     x="100.58984"
+     y="121.03706"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-family="Verdana"
+     font-size="53.4814px"
+     font-weight="bold"
+     id="text4"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter10309)"
+     transform="matrix(0.96211547,0,0,0.96211547,3.8642223,3.8642219)"><tspan
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan1961">BUMP</tspan></text>
   <!-- "Off!" Text -->
-  <text x="50%" y="50%" text-anchor="middle" fill="#ffffff" font-family="Verdana" font-size="36" font-weight="bold" dy="40">
-    Off!
-  </text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <circle
+       cx="102"
+       cy="102"
+       r="95"
+       fill="#4CAF50"
+       stroke="#333"
+       stroke-width="5"
+       id="circle2"
+       style="fill:none;stroke:#d71212;stroke-width:14;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#d71212;fill-opacity:1;fill-rule:evenodd;stroke-width:1.322;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4232"
+       width="185.06693"
+       height="15.416894"
+       x="50.974953"
+       y="6.8975387"
+       transform="rotate(39.188567)"
+       ry="0" />
+  </g>
 </svg>
