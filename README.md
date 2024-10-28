@@ -8,6 +8,8 @@
 
 **Bump Off!** is a Chrome extension that automatically hides Facebook comments containing the word 'bump.' It helps keep your Facebook feed clean by filtering out 'bump' comments, which are often used to push posts back to the top of the feed without adding value.
 
+![https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png](https://chromewebstore.google.com/detail/bump-off/dlbcdmgkiplfhpaadbdfaenecklpadgo)
+
 You can:
 
 - Enable or disable the extension.
@@ -22,13 +24,11 @@ You can:
 
 ## Installation
 
-![Bump Off! Screenshot](Screenshots/Screenshot_Demo.png)
+### From the Chrome Web Store
 
-### From Chrome Web Store
+[![Available in the Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png)](https://chromewebstore.google.com/detail/bump-off/dlbcdmgkiplfhpaadbdfaenecklpadgo)
 
-Coming soon!
-
-### Manual Installation from GitHub
+### From GitHub
 
 1. Clone or download this repository:
 2. 
@@ -42,6 +42,8 @@ Coming soon!
 6. The extension should now appear in your toolbar. You can configure it from the popup menu.
 
 ## How to Use
+
+![Bump Off! Screenshot](Screenshots/Screenshot_Demo.png)
 
 1. Once installed, click the **Bump Off!** icon in the Chrome toolbar *(you may need to click the puzzle icon to find it)*.
 2. Enable or disable the extension using the toggle switch.
